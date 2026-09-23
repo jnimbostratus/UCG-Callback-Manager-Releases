@@ -1,7 +1,7 @@
 {
-  "version": "1.10.1",
-  "url": "https://github.com/jnimbostratus/UCG-Callback-Manager-Releases/releases/download/v1.10.1/Callback-Manager-v1.10.1.zip",
-  "sha256": "638b7b973583b694700f2365633f1338dac1f502840dfdae46842cd683cb1afa",
-  "notes": "Neutral application naming and consistent invoice link placement.",
-  "required": false
+    "version":  "1.10.2",
+    "url":  "https://github.com/jnimbostratus/UCG-Callback-Manager-Releases/releases/download/v1.10.2/Callback-Manager-v1.10.2.zip",
+    "sha256":  "291a062d1c231587f62127f5a377cd96f2258417865b4fb437e934436976b3da",
+    "notes":  "Callback Manager v1.10.2",
+    "required":  false
 }
