@@ -1,0 +1,7 @@
+{
+  "version": "1.10.0",
+  "url": "https://github.com/jnimbostratus/UCG-Callback-Manager-Releases/releases/download/v1.10.0/UCG-Callback-Manager-v1.10.0.zip",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "required": false,
+  "notes": "Initial updater-enabled baseline."
+}
