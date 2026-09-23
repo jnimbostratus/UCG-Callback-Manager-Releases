@@ -1,7 +1,7 @@
 {
-    "version":  "1.10.3",
-    "url":  "https://github.com/jnimbostratus/UCG-Callback-Manager-Releases/releases/download/v1.10.3/Callback-Manager-v1.10.3.zip",
-    "sha256":  "69c46df6ce12cd4596ad1c5704b87e6bd144730a22355ae58091c6ef63705c9c",
-    "notes":  "Callback Manager v1.10.3",
+    "version":  "1.10.4",
+    "url":  "https://github.com/jnimbostratus/UCG-Callback-Manager-Releases/releases/download/v1.10.4/Callback-Manager-v1.10.4.zip",
+    "sha256":  "a8477c3e417f79933d5725bf60d5a2ed3300aaa90e17bf7702e997a192e9ad6e",
+    "notes":  "Callback Manager v1.10.4",
     "required":  false
 }
