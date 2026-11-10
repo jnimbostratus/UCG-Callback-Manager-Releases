@@ -1,7 +1,7 @@
 {
-    "version":  "1.10.7",
-    "url":  "https://github.com/jnimbostratus/UCG-Callback-Manager-Releases/releases/download/v1.10.7/Callback-Manager-v1.10.7.zip",
-    "sha256":  "46d527a5742f69f8adaf3634551ab0ad6e31e76df42b952176d14c6b4896dc41",
-    "notes":  "Callback caching, pre-write conflict protection, canceled-job filtering, Enterprise Hub links, and Business Unit defaults.",
+    "version":  "1.10.8",
+    "url":  "https://github.com/jnimbostratus/UCG-Callback-Manager-Releases/releases/download/v1.10.8/Callback-Manager-v1.10.8.zip",
+    "sha256":  "7252de6b017b03306f954097b9ec2d4a152849cca17f47174f33c8c9e7b955de",
+    "notes":  "Fixed Business Unit defaults, active Business Unit retrieval, zero-count Business Unit visibility, and dropdown layout.",
     "required":  false
 }
